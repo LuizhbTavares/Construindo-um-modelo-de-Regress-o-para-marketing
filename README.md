@@ -7,8 +7,8 @@ Uma empresa está investindo mensalmente em plataformas de publicidade online, c
 Sobre os dados
 A tabela contém informações dos investimentos feitos pelo youtube, facebook, newspaper e também a quantidade de cada. 
 
-Coluna             Descrição
-youtube       Investimento youtube
-facebook      Investimento facebook
-newspaper     Investimento newspaper
-sales         Valor das vendas
+Coluna             Descrição :
+youtube       Investimento youtube;
+facebook      Investimento facebook;
+newspaper     Investimento newspaper;
+sales         Valor das vendas.
